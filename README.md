@@ -3,7 +3,7 @@
 **Taller individual · Machine Learning aplicado a Economía y Finanzas · Pontificia Universidad Javeriana Cali**
 Autor: Giuliano Stiven Vera Campo
 
-Aplicación desplegada: `https://<tu-app>.streamlit.app` *(reemplazar por el enlace de Streamlit Community Cloud)*
+Aplicación desplegada: https://acp-k-means-paises.streamlit.app 
 
 Cuaderno paso a paso: [`analisis_paso_a_paso.ipynb`](analisis_paso_a_paso.ipynb) ·
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stivenv6/ACP---K-means--pa-ses/blob/main/analisis_paso_a_paso.ipynb)
